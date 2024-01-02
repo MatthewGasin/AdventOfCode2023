@@ -1,5 +1,5 @@
-import { Day } from '../../utils/day';
 import { parseInputByCharacter, parseInputByLine } from '../../utils/utils';
+import { Day } from '../../utils/day';
 
 const partOne = (input: string) => {
     console.log(parseInputByLine(input));
